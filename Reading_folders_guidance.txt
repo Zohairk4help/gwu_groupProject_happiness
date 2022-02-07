@@ -3,6 +3,8 @@ it is highly recommended to start reading/understanding the following files/fold
 1) Exploration_of_models_1stweek 
 2) click linear regression model sub folder and click the file name "ML-models-exploration-2ndweek"
 3) at the end of the file indicated in (step 2), you will find further guidance to click the next file/folder. 
+4) so to see the next results, please refer to NaN_Splits file of the linear model...
+5) after that , you can click either 90/10 and/or 80/20 files for your own satisfaction. :)
 
 
 
